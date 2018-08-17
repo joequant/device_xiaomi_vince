@@ -1,0 +1,18 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "mdeejay/kernel_xiaomi_vince",
+    "target_path": "kernel/xiaomi/vince",
+    "branch":      "aligot-release"
+  },
+  {
+    "remote":      "github",
+    "repository":  "mdeejay/vendor_xiaomi_vince",
+    "target_path": "vendor/xiaomi"
+    "branch":      "aligot-release"
+  },
+  {
+   "repository": "android_packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings"
+  }
+]
